@@ -1,0 +1,12 @@
+.continer{
+    width: 500px;
+    height: 50vh;
+    background-color: aqua;
+
+}
+body{
+    text-align: center;
+}
+h1{
+    color:firebrick;
+}
